@@ -1,0 +1,20 @@
+{
+  "name": "helloworld",
+  "version": "0.0.1-a",
+  "description": "hello world",
+  "main": "./helloworld3.js",
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Andrew Feese",
+  "license": "MIT",
+  "dependencies": {
+    "asynquence": "^0.6.0-b",
+    "asynquence-contrib": "^0.10.1-a",
+    "fs": "^0.0.2",
+    "minimist": "^1.1.3",
+    "node-static": "^0.7.7",
+    "socket.io": "^0.9.16"
+  }
+}
